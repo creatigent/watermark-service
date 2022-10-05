@@ -47,3 +47,8 @@ https://github.com/DerSalvador/eventing-contrib.git
 
 ##### Conribution:
 Issue Tracker: https://trello.com/b/tuDO5DYR/watermark-service-application
+
+
+https://www.velotio.com/engineering-blog/build-a-containerized-microservice-in-golang
+
+
